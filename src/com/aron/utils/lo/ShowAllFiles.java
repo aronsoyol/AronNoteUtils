@@ -8,9 +8,7 @@ import java.io.File;
 			// TODO Auto-generated constructor stub
 		}
 		public static void main(String[] args) throws Exception {
-			//递归显示C盘下所有文件夹及其中文件
-			//试验
-			
+			//こんにちは
 			File root = new File("c:");
 			showAllFiles(root);
 		}
