@@ -14,6 +14,7 @@ import java.io.OutputStream;
 
 public class FindReadme {
 
+	//こんにちは
 	private File outFile = null;
 	private BufferedOutputStream  bos = null;
 	private int fileCount = 0;
